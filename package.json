@@ -159,6 +159,6 @@
     "whatwg-fetch": "^1.0.0"
   },
   "optionalDependencies": {
-    "fsevents": "^1.0.14"
+    "fsevents": "^2.2.1"
   }
 }
